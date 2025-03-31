@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)
 
-Este projeto realiza a extração, transformação e análise de dados das demonstrações contábeis e cadastro de operadoras da Agência Nacional de Saúde Suplementar (ANS). O objetivo é identificar as operadoras com maiores despesas em assistência médico-hospitalar.
+Este teste realiza a extração, transformação e análise de dados das demonstrações contábeis e cadastro de operadoras da Agência Nacional de Saúde Suplementar (ANS). O objetivo é identificar as operadoras com maiores despesas em assistência médico-hospitalar.
 
 ## 📋 Pré-requisitos
 
