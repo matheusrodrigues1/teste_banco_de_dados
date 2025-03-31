@@ -1,4 +1,4 @@
-# Teste de Banco de Dados ANS
+# Teste de Banco de Dados
 
 ![Badge Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen) 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
