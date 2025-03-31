@@ -44,25 +44,25 @@ DB_PASSWORD=sua_senha
 
 ## 🗃️ Estrutura do Projeto
 
-teste_banco_de_dados/
-├── data/
-│   ├── Relatorio_cadop.csv            # Dados cadastrais das operadoras
-│   ├── 3T2023.csv                     # Demonstrações contábeis 2023
-│   └── 3T2024.csv                     # Demonstrações contábeis 2024
-│
-├── scripts/
-│   ├── database_setup.py              # Criação do banco e tabelas
-│   ├── data_import.py                 # Importação dos dados
-│   └── queries.py                     # Consultas analíticas
-│
-├── resultados/                        # Relatórios gerados
-│   ├── descricoes_saude_*.{csv,xlsx}
-│   ├── top10_*.{csv,xlsx}
-│   └── relatorio_anual_*.{csv,xlsx}
-│
-├── .env                               # Configurações
-├── requirements.txt                   # Dependências
-└── README.md                          # Documentação
+teste_banco_de_dados/</br>
+├── data/</br>
+│   ├── Relatorio_cadop.csv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            # Dados cadastrais das operadoras</br>
+│   ├── 3T2023.csv    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 # Demonstrações contábeis 2023</br>
+│   └── 3T2024.csv    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 # Demonstrações contábeis 2024</br>
+│</br>
+├── scripts/</br>
+│   ├── database_setup.py &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             # Criação do banco e tabelas</br>
+│   ├── data_import.py  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;             # Importação dos dados</br>
+│   └── queries.py    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 # Consultas analíticas</br>
+│</br>
+├── resultados/     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   # Relatórios gerados</br>
+│   ├── descricoes_saude_*.{csv,xlsx}</br>
+│   ├── top10_*.{csv,xlsx}</br>
+│   └── relatorio_anual_*.{csv,xlsx}</br>
+│</br>
+├── .env        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       # Configurações</br>
+├── requirements.txt        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     # Dependências</br>
+└── README.md       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   # Documentação
 
 ## 🚀 Execução
 
